@@ -57,7 +57,6 @@ setTimeout(() => {
         }
       }, delay);
     });
-    console.log(promise);
     return promise
   };
   //--------
